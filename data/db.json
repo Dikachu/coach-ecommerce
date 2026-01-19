@@ -46,7 +46,7 @@
         "/images/products/english-chairs1.avif",
         "/images/products/english-chairs4.avif",
         "/images/products/royal5.avif",
-        "/images/products/stands2.avif"
+        "/images/products/stands2.jpg"
       ],
       "inStock": true,
       "features": [
@@ -76,8 +76,8 @@
       "category": "center-tables",
       "color": "White",
       "images": [
-        "/images/products/center-tables1.avif",
-        "/images/products/center-tables5.avif",
+        "/images/products/center-tables1.webp",
+        "/images/products/center-tables5.jpg",
         "/images/products/other8.avif",
         "/images/products/sitout2.avif"
       ],
@@ -176,8 +176,8 @@
       "images": [
         "/images/products/office-equipment1.avif",
         "/images/products/office-equipment5.avif",
-        "/images/products/stands4.avif",
-        "/images/products/center-tables3.avif"
+        "/images/products/stands4.webp",
+        "/images/products/center-tables3.webp"
       ],
       "inStock": true,
       "features": [
@@ -208,7 +208,7 @@
       "color": "Rattan",
       "images": [
         "/images/products/sitout1.avif",
-        "/images/products/sitout5.avif",
+        "/images/products/sitout5.webp",
         "/images/products/other3.avif",
         "/images/products/english-chairs3.avif"
       ],
@@ -242,7 +242,7 @@
       "images": [
         "/images/products/wall-panels1.avif",
         "/images/products/wall-panels3.avif",
-        "/images/products/stands1.avif",
+        "/images/products/stands1.jpg",
         "/images/products/royal4.avif"
       ],
       "inStock": true,
@@ -272,7 +272,7 @@
       "category": "stands",
       "color": "White",
       "images": [
-        "/images/products/stands1.avif",
+        "/images/products/stands1.jpg",
         "/images/products/stands3.avif",
         "/images/products/office-equipment2.avif",
         "/images/products/dinning2.avif"
@@ -306,7 +306,7 @@
       "images": [
         "/images/products/other1.avif",
         "/images/products/other5.avif",
-        "/images/products/center-tables2.avif",
+        "/images/products/center-tables2.webp",
         "/images/products/sitout6.avif"
       ],
       "inStock": true,
@@ -401,9 +401,9 @@
       "category": "center-tables",
       "color": "Clear",
       "images": [
-        "/images/products/center-tables2.avif",
-        "/images/products/center-tables4.avif",
-        "/images/products/stands5.avif",
+        "/images/products/center-tables2.webp",
+        "/images/products/center-tables4.jpg",
+        "/images/products/stands5.webp",
         "/images/products/office-equipment4.avif"
       ],
       "inStock": true,
@@ -436,7 +436,7 @@
         "/images/products/dinning2.avif",
         "/images/products/dinning4.avif",
         "/images/products/royal-dinning5.avif",
-        "/images/products/center-tables1.avif"
+        "/images/products/center-tables1.webp"
       ],
       "inStock": true,
       "features": [
@@ -565,7 +565,7 @@
         "/images/products/wall-panels2.avif",
         "/images/products/wall-panels1.avif",
         "/images/products/other9.avif",
-        "/images/products/stands2.avif"
+        "/images/products/stands2.jpg"
       ],
       "inStock": true,
       "features": [
@@ -595,8 +595,8 @@
       "category": "stands",
       "color": "Black",
       "images": [
-        "/images/products/stands2.avif",
-        "/images/products/stands4.avif",
+        "/images/products/stands2.jpg",
+        "/images/products/stands4.webp",
         "/images/products/office-equipment1.avif",
         "/images/products/product3.avif"
       ],
@@ -631,7 +631,7 @@
         "/images/products/other2.avif",
         "/images/products/other6.avif",
         "/images/products/royal5.avif",
-        "/images/products/sitout4.avif"
+        "/images/products/sitout4.webp"
       ],
       "inStock": true,
       "features": [
@@ -725,8 +725,8 @@
       "category": "center-tables",
       "color": "Walnut",
       "images": [
-        "/images/products/center-tables3.avif",
-        "/images/products/center-tables1.avif",
+        "/images/products/center-tables3.webp",
+        "/images/products/center-tables1.webp",
         "/images/products/dinning3.avif",
         "/images/products/product5.avif"
       ],
@@ -760,7 +760,7 @@
         "/images/products/dinning3.avif",
         "/images/products/dinning5.avif",
         "/images/products/office-equipment3.avif",
-        "/images/products/center-tables5.avif"
+        "/images/products/center-tables5.jpg"
       ],
       "inStock": true,
       "features": [
@@ -853,7 +853,7 @@
       "category": "sitout",
       "color": "Navy Blue",
       "images": [
-        "/images/products/sitout4.avif",
+        "/images/products/sitout4.webp",
         "/images/products/sitout6.avif",
         "/images/products/product1.avif",
         "/images/products/other1.avif"
@@ -918,8 +918,8 @@
       "color": "Gold",
       "images": [
         "/images/products/stands3.avif",
-        "/images/products/stands1.avif",
-        "/images/products/sitout5.avif",
+        "/images/products/stands1.jpg",
+        "/images/products/sitout5.webp",
         "/images/products/wall-panels1.avif"
       ],
       "inStock": true,
@@ -1015,7 +1015,7 @@
       "images": [
         "/images/products/english-chairs4.avif",
         "/images/products/english-chairs3.avif",
-        "/images/products/stands4.avif",
+        "/images/products/stands4.webp",
         "/images/products/other8.avif"
       ],
       "inStock": true,
@@ -1045,8 +1045,8 @@
       "category": "center-tables",
       "color": "Black",
       "images": [
-        "/images/products/center-tables4.avif",
-        "/images/products/center-tables2.avif",
+        "/images/products/center-tables4.jpg",
+        "/images/products/center-tables2.webp",
         "/images/products/royal3.avif",
         "/images/products/office-equipment6.avif"
       ],
@@ -1079,7 +1079,7 @@
       "images": [
         "/images/products/dinning4.avif",
         "/images/products/dinning1.avif",
-        "/images/products/center-tables3.avif",
+        "/images/products/center-tables3.webp",
         "/images/products/royal-dinning1.avif"
       ],
       "inStock": true,
@@ -1144,7 +1144,7 @@
       "images": [
         "/images/products/office-equipment4.avif",
         "/images/products/office-equipment2.avif",
-        "/images/products/stands1.avif",
+        "/images/products/stands1.jpg",
         "/images/products/product2.avif"
       ],
       "inStock": true,
@@ -1174,9 +1174,9 @@
       "category": "sitout",
       "color": "Black",
       "images": [
-        "/images/products/sitout5.avif",
+        "/images/products/sitout5.webp",
         "/images/products/sitout2.avif",
-        "/images/products/center-tables4.avif",
+        "/images/products/center-tables4.jpg",
         "/images/products/english-chairs5.avif"
       ],
       "inStock": true,
@@ -1206,8 +1206,8 @@
       "category": "stands",
       "color": "Espresso",
       "images": [
-        "/images/products/stands4.avif",
-        "/images/products/stands5.avif",
+        "/images/products/stands4.webp",
+        "/images/products/stands5.webp",
         "/images/products/office-equipment4.avif",
         "/images/products/other3.avif"
       ],
@@ -1337,10 +1337,10 @@
       "category": "center-tables",
       "color": "Oak",
       "images": [
-        "/images/products/center-tables5.avif",
-        "/images/products/center-tables3.avif",
-        "/images/products/stands2.avif",
-        "/images/products/sitout4.avif"
+        "/images/products/center-tables5.jpg",
+        "/images/products/center-tables3.webp",
+        "/images/products/stands2.jpg",
+        "/images/products/sitout4.webp"
       ],
       "inStock": true,
       "features": [
@@ -1469,9 +1469,9 @@
       "color": "Gray",
       "images": [
         "/images/products/sitout6.avif",
-        "/images/products/sitout4.avif",
+        "/images/products/sitout4.webp",
         "/images/products/product5.avif",
-        "/images/products/center-tables1.avif"
+        "/images/products/center-tables1.webp"
       ],
       "inStock": true,
       "features": [
@@ -1501,8 +1501,8 @@
       "category": "stands",
       "color": "Oak",
       "images": [
-        "/images/products/stands5.avif",
-        "/images/products/stands2.avif",
+        "/images/products/stands5.webp",
+        "/images/products/stands2.jpg",
         "/images/products/wall-panels1.avif",
         "/images/products/other7.avif"
       ],
@@ -1600,7 +1600,7 @@
       "images": [
         "/images/products/product2.avif",
         "/images/products/product5.avif",
-        "/images/products/center-tables2.avif",
+        "/images/products/center-tables2.webp",
         "/images/products/sitout6.avif"
       ],
       "inStock": true,
@@ -1666,7 +1666,7 @@
         "/images/products/product4.avif",
         "/images/products/product1.avif",
         "/images/products/office-equipment2.avif",
-        "/images/products/stands4.avif"
+        "/images/products/stands4.webp"
       ],
       "inStock": true,
       "features": [
@@ -1730,7 +1730,7 @@
       "images": [
         "/images/products/other6.avif",
         "/images/products/other2.avif",
-        "/images/products/center-tables5.avif",
+        "/images/products/center-tables5.jpg",
         "/images/products/wall-panels2.avif"
       ],
       "inStock": true,
@@ -1762,7 +1762,7 @@
       "images": [
         "/images/products/other7.avif",
         "/images/products/other10.avif",
-        "/images/products/stands1.avif",
+        "/images/products/stands1.jpg",
         "/images/products/royal2.avif"
       ],
       "inStock": true,
@@ -1892,7 +1892,7 @@
         "/images/products/office-equipment6.avif",
         "/images/products/office-equipment4.avif",
         "/images/products/product5.avif",
-        "/images/products/stands5.avif"
+        "/images/products/stands5.webp"
       ],
       "inStock": true,
       "features": [
