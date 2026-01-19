@@ -1,0 +1,2061 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Royal Vintage Sofa Set",
+      "description": "Elegant royal-style sofa with premium leather finish and golden accents. Crafted on a solid hardwood frame with high-density foam cushions and reinforced stitching, it delivers both lasting durability and luxurious comfort for formal living rooms or grand lounges. This premium sofa set is crafted with the finest materials and designed to provide exceptional comfort and style.",
+      "price": 450000,
+      "shipping": 5000,
+      "featured": false,
+      "discountPrice": 380000,
+      "category": "royal-antics",
+      "color": "Brown",
+      "images": [
+        "/images/products/royal1.avif",
+        "/images/products/royal3.avif",
+        "/images/products/english-chairs2.avif",
+        "/images/products/dinning4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Ergonomically designed for maximum comfort",
+        "Easy to clean and maintain",
+        "Suitable for both residential and commercial use",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Leather & Hardwood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Classic English Armchair",
+      "description": "Traditional English design with modern comfort and button tufting. Features a robust wooden frame with hand-applied brass nailhead trim, premium fabric upholstery, and ergonomic seating that blends timeless elegance with contemporary functionality. This armchair is perfect for adding a touch of sophistication to any living space.",
+      "price": 125000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "english-chairs",
+      "color": "Beige",
+      "images": [
+        "/images/products/english-chairs1.avif",
+        "/images/products/english-chairs4.avif",
+        "/images/products/royal5.avif",
+        "/images/products/stands2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Ergonomically designed for maximum comfort",
+        "Easy to clean and maintain",
+        "Suitable for both residential and commercial use",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Fabric & Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Marble Top Center Table",
+      "description": "Luxurious white marble top with gold-plated metal base. This stunning center table combines natural stone elegance with modern metallic accents, creating a focal point for any living room. The genuine marble surface is polished to perfection and supported by a sturdy, rust-resistant frame for years of reliable use.",
+      "price": 95000,
+      "shipping": 4000,
+      "featured": true,
+      "discountPrice": 75000,
+      "category": "center-tables",
+      "color": "White",
+      "images": [
+        "/images/products/center-tables1.avif",
+        "/images/products/center-tables5.avif",
+        "/images/products/other8.avif",
+        "/images/products/sitout2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Scratch-resistant marble surface",
+        "Easy to clean and maintain",
+        "Suitable for both residential and commercial use",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Marble & Gold-Plated Metal",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "4",
+      "name": "6-Seater Dining Set",
+      "description": "Complete dining set with table and 6 cushioned chairs. Expertly crafted from solid wood with a rich finish, this dining collection features comfortable padded seating and a spacious tabletop perfect for family meals and entertaining guests. Built to withstand daily use while maintaining its elegant appearance.",
+      "price": 285000,
+      "shipping": 6000,
+      "featured": false,
+      "discountPrice": 245000,
+      "category": "dinning",
+      "color": "Oak",
+      "images": [
+        "/images/products/dinning1.avif",
+        "/images/products/dinning3.avif",
+        "/images/products/royal-dinning2.avif",
+        "/images/products/office-equipment3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Ergonomically designed for maximum comfort",
+        "Easy to clean and maintain",
+        "Suitable for both residential and commercial use",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Solid Oak Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Royal Banquet Dining Set",
+      "description": "Opulent 12-seater dining set with carved details and velvet chairs. This magnificent collection showcases intricate hand-carved embellishments, premium velvet upholstery, and a grand table designed to host lavish gatherings. Every element exudes regal sophistication and unmatched craftsmanship.",
+      "price": 680000,
+      "shipping": 8000,
+      "featured": true,
+      "discountPrice": 590000,
+      "category": "royal-dinning",
+      "color": "Gold",
+      "images": [
+        "/images/products/royal-dinning1.avif",
+        "/images/products/royal-dinning4.avif",
+        "/images/products/royal2.avif",
+        "/images/products/dinning5.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Handcrafted carved details",
+        "Luxurious velvet upholstery",
+        "Suitable for formal dining and events",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Wood & Velvet",
+        "warranty": "1 Year",
+        "dimension": "Large",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Executive Office Desk",
+      "description": "Spacious executive desk with built-in storage compartments. Designed for professionals who value both style and functionality, this desk features multiple drawers, cable management systems, and a generous work surface. The sleek finish and sturdy construction make it ideal for any corporate or home office environment.",
+      "price": 180000,
+      "shipping": 7000,
+      "featured": false,
+      "category": "office-equipment",
+      "color": "Black",
+      "images": [
+        "/images/products/office-equipment1.avif",
+        "/images/products/office-equipment5.avif",
+        "/images/products/stands4.avif",
+        "/images/products/center-tables3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Ample storage compartments",
+        "Cable management system",
+        "Suitable for commercial and home offices",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Engineered Wood & Metal",
+        "warranty": "1 Year",
+        "dimension": "Executive Size",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Outdoor Patio Set",
+      "description": "Weather-resistant outdoor furniture set with table and 4 chairs. Constructed from durable synthetic rattan and powder-coated aluminum, this patio ensemble withstands sun, rain, and humidity while providing comfortable seating for outdoor relaxation. Perfect for gardens, balconies, and poolside areas.",
+      "price": 215000,
+      "shipping": 6000,
+      "featured": true,
+      "discountPrice": 185000,
+      "category": "sitout",
+      "color": "Rattan",
+      "images": [
+        "/images/products/sitout1.avif",
+        "/images/products/sitout5.avif",
+        "/images/products/other3.avif",
+        "/images/products/english-chairs3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Weather-resistant materials",
+        "UV-protected finish",
+        "Easy to clean and maintain",
+        "Suitable for outdoor use year-round",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Synthetic Rattan & Aluminum",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "8",
+      "name": "3D Decorative Wall Panel",
+      "description": "Modern 3D textured wall panel for interior decoration. These innovative panels add depth and visual interest to any room, featuring geometric patterns that create stunning shadow effects. Easy to install and made from eco-friendly materials, they're perfect for accent walls in living rooms, bedrooms, or offices.",
+      "price": 28000,
+      "shipping": 4000,
+      "featured": false,
+      "discountPrice": 22000,
+      "category": "wall-panels",
+      "color": "White",
+      "images": [
+        "/images/products/wall-panels1.avif",
+        "/images/products/wall-panels3.avif",
+        "/images/products/stands1.avif",
+        "/images/products/royal4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Easy installation process",
+        "Eco-friendly materials",
+        "Creates stunning visual effects",
+        "Professional installation service available"
+      ],
+      "otherSpecifications": {
+        "material": "PVC/Plant Fiber",
+        "warranty": "1 Year",
+        "dimension": "Per Panel",
+        "weight": "Lightweight",
+        "assembly": "DIY friendly",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Modern TV Stand",
+      "description": "Sleek TV stand with storage for media equipment. This contemporary entertainment unit features adjustable shelves, hidden cable channels, and a weight-bearing surface suitable for large flat-screen televisions. The minimalist design complements any decor while keeping your media area organized.",
+      "price": 85000,
+      "shipping": 5000,
+      "featured": true,
+      "category": "stands",
+      "color": "White",
+      "images": [
+        "/images/products/stands1.avif",
+        "/images/products/stands3.avif",
+        "/images/products/office-equipment2.avif",
+        "/images/products/dinning2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Multiple storage compartments",
+        "Cable management system",
+        "Suitable for TVs up to 65 inches",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Engineered Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Storage Ottoman",
+      "description": "Multi-functional storage ottoman with cushioned top. This versatile piece serves as extra seating, a footrest, and concealed storage all in one. Upholstered in premium fabric with a lift-top lid, it's perfect for keeping blankets, magazines, or toys neatly tucked away.",
+      "price": 45000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Gray",
+      "images": [
+        "/images/products/other1.avif",
+        "/images/products/other5.avif",
+        "/images/products/center-tables2.avif",
+        "/images/products/sitout6.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Dual functionality as seating and storage",
+        "Easy to clean and maintain",
+        "Suitable for any room",
+        "No assembly required"
+      ],
+      "otherSpecifications": {
+        "material": "Fabric & Wood",
+        "warranty": "1 Year",
+        "dimension": "Compact",
+        "weight": "As Specified",
+        "assembly": "Ready to use",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Imperial Throne Chair",
+      "description": "Luxurious high-back throne chair with carved wood details. This statement piece features ornate carvings, plush cushioning, and a regal silhouette that commands attention. Ideal for creating a dramatic focal point in formal settings or luxury interiors.",
+      "price": 320000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "royal-antics",
+      "color": "Gold",
+      "images": [
+        "/images/products/royal2.avif",
+        "/images/products/royal1.avif",
+        "/images/products/royal-dinning3.avif",
+        "/images/products/english-chairs5.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Handcrafted wood carvings",
+        "Luxurious upholstery",
+        "Suitable for formal settings",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Carved Wood & Premium Fabric",
+        "warranty": "1 Year",
+        "dimension": "Grand",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Chesterfield Leather Chair",
+      "description": "Iconic Chesterfield style with genuine leather and deep buttoning. This timeless classic features full-grain leather, hand-tufted detailing, and a sturdy hardwood frame. The elegant scroll arms and rich patina develop character over time, making each piece unique.",
+      "price": 185000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 155000,
+      "category": "english-chairs",
+      "color": "Dark Brown",
+      "images": [
+        "/images/products/english-chairs2.avif",
+        "/images/products/english-chairs1.avif",
+        "/images/products/product1.avif",
+        "/images/products/other7.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Genuine leather upholstery",
+        "Hand-tufted deep buttoning",
+        "Easy to clean and maintain",
+        "Suitable for both residential and commercial use",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Genuine Leather & Hardwood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Glass Round Coffee Table",
+      "description": "Modern tempered glass top with chrome steel frame. This contemporary table adds an airy, spacious feel to any room with its transparent surface and polished metal base. The tempered glass is heat-resistant and safe, while the chrome legs provide stable support.",
+      "price": 68000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "center-tables",
+      "color": "Clear",
+      "images": [
+        "/images/products/center-tables2.avif",
+        "/images/products/center-tables4.avif",
+        "/images/products/stands5.avif",
+        "/images/products/office-equipment4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Tempered safety glass",
+        "Chrome-plated steel frame",
+        "Easy to clean and maintain",
+        "Suitable for modern interiors",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Tempered Glass & Chrome Steel",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Modern Dining Table",
+      "description": "Sleek rectangular dining table seats up to 8 people. With clean lines and a durable finish, this table is built for everyday use and special occasions alike. The spacious surface accommodates large gatherings while the sturdy legs ensure stability.",
+      "price": 165000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "dinning",
+      "color": "Black",
+      "images": [
+        "/images/products/dinning2.avif",
+        "/images/products/dinning4.avif",
+        "/images/products/royal-dinning5.avif",
+        "/images/products/center-tables1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Premium quality construction for long-lasting durability",
+        "Seats up to 8 people",
+        "Easy to clean and maintain",
+        "Suitable for dining rooms and kitchens",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Engineered Wood",
+        "warranty": "1 Year",
+        "dimension": "Large",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Victorian Dining Collection",
+      "description": "Complete Victorian-style dining room furniture set. This exquisite collection captures the elegance of the Victorian era with ornate details, rich wood tones, and plush upholstered seating. Perfect for those who appreciate classic design and formal entertaining.",
+      "price": 550000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "royal-dinning",
+      "color": "Cherry Wood",
+      "images": [
+        "/images/products/royal-dinning2.avif",
+        "/images/products/royal-dinning1.avif",
+        "/images/products/dinning1.avif",
+        "/images/products/royal3.avif"
+      ],
+      "inStock": false,
+      "features": [
+        "Victorian-era inspired design",
+        "Handcrafted details",
+        "Luxurious upholstery",
+        "Suitable for formal dining",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Cherry Wood & Premium Fabric",
+        "warranty": "1 Year",
+        "dimension": "Large Set",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Ergonomic Office Chair",
+      "description": "Premium ergonomic chair with lumbar support and adjustable height. Designed to promote proper posture and reduce fatigue during long work sessions, this chair features breathable mesh backing, padded armrests, and a pneumatic height adjustment mechanism.",
+      "price": 95000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 78000,
+      "category": "office-equipment",
+      "color": "Gray",
+      "images": [
+        "/images/products/office-equipment2.avif",
+        "/images/products/office-equipment6.avif",
+        "/images/products/english-chairs4.avif",
+        "/images/products/product4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Ergonomic lumbar support",
+        "Adjustable height and armrests",
+        "Breathable mesh backing",
+        "Suitable for office and home use",
+        "Easy assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Mesh & Metal Frame",
+        "warranty": "1 Year",
+        "dimension": "Adjustable",
+        "weight": "As Specified",
+        "assembly": "Easy DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Garden Swing Bench",
+      "description": "Comfortable 3-seater swing bench with canopy. This charming outdoor swing provides a relaxing spot to enjoy your garden, complete with a protective canopy and weather-resistant cushions. The sturdy frame and smooth swinging motion ensure years of enjoyment.",
+      "price": 145000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "sitout",
+      "color": "Beige",
+      "images": [
+        "/images/products/sitout2.avif",
+        "/images/products/sitout1.avif",
+        "/images/products/other2.avif",
+        "/images/products/wall-panels2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Weather-resistant materials",
+        "Protective UV canopy",
+        "Comfortable cushioned seating",
+        "Suitable for gardens and patios",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Metal Frame & Fabric",
+        "warranty": "1 Year",
+        "dimension": "3-Seater",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Wooden Accent Wall Panel",
+      "description": "Natural wood panel for rustic wall design. These authentic wood panels bring warmth and texture to any interior, featuring natural grain patterns and a protective finish. Ideal for creating feature walls in bedrooms, living rooms, or commercial spaces.",
+      "price": 35000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "wall-panels",
+      "color": "Natural Wood",
+      "images": [
+        "/images/products/wall-panels2.avif",
+        "/images/products/wall-panels1.avif",
+        "/images/products/other9.avif",
+        "/images/products/stands2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Natural wood grain",
+        "Eco-friendly materials",
+        "Easy installation",
+        "Adds warmth to interiors",
+        "Professional installation available"
+      ],
+      "otherSpecifications": {
+        "material": "Natural Wood",
+        "warranty": "1 Year",
+        "dimension": "Per Panel",
+        "weight": "Moderate",
+        "assembly": "DIY friendly",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Display Shelf Stand",
+      "description": "Multi-tier display stand for books and decorations. This versatile shelving unit offers ample space for showcasing your favorite items, from books and photos to collectibles and plants. The open design keeps your display visible while the sturdy construction supports substantial weight.",
+      "price": 52000,
+      "shipping": 3000,
+      "featured": true,
+      "discountPrice": 42000,
+      "category": "stands",
+      "color": "Black",
+      "images": [
+        "/images/products/stands2.avif",
+        "/images/products/stands4.avif",
+        "/images/products/office-equipment1.avif",
+        "/images/products/product3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Multi-tier design",
+        "Sturdy construction",
+        "Easy to clean and maintain",
+        "Suitable for any room",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Metal & Wood",
+        "warranty": "1 Year",
+        "dimension": "Multi-Tier",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Decorative Mirror",
+      "description": "Large ornate wall mirror with antique gold frame. This stunning mirror serves as both a functional piece and a work of art. The intricately detailed frame features classical motifs that add elegance to entryways, living rooms, or dressing areas.",
+      "price": 62000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 52000,
+      "category": "other",
+      "color": "Gold",
+      "images": [
+        "/images/products/other2.avif",
+        "/images/products/other6.avif",
+        "/images/products/royal5.avif",
+        "/images/products/sitout4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Ornate decorative frame",
+        "High-quality reflective surface",
+        "Easy to mount",
+        "Suitable for various room styles",
+        "Hanging hardware included"
+      ],
+      "otherSpecifications": {
+        "material": "Glass & Resin Frame",
+        "warranty": "1 Year",
+        "dimension": "Large",
+        "weight": "As Specified",
+        "assembly": "Wall mounting required",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "21",
+      "name": "Baroque Style Chaise Lounge",
+      "description": "Classic baroque design with plush velvet upholstery. This luxurious chaise lounge combines old-world elegance with modern comfort, featuring curved lines, ornate legs, and sumptuous fabric. Perfect for adding a touch of romance to bedrooms or sitting rooms.",
+      "price": 280000,
+      "shipping": 3000,
+      "featured": true,
+      "discountPrice": 230000,
+      "category": "royal-antics",
+      "color": "Burgundy",
+      "images": [
+        "/images/products/royal3.avif",
+        "/images/products/royal4.avif",
+        "/images/products/product2.avif",
+        "/images/products/english-chairs2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Baroque-inspired design",
+        "Plush velvet upholstery",
+        "Handcrafted details",
+        "Suitable for luxury interiors",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Velvet & Carved Wood",
+        "warranty": "1 Year",
+        "dimension": "Chaise Length",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "22",
+      "name": "Victorian Wing Chair",
+      "description": "Elegant Victorian-era wing chair with floral upholstery. This traditional chair features high wings for added comfort and privacy, classic cabriole legs, and beautiful patterned fabric. A timeless addition to any formal living space or reading nook.",
+      "price": 145000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "english-chairs",
+      "color": "Floral",
+      "images": [
+        "/images/products/english-chairs3.avif",
+        "/images/products/english-chairs5.avif",
+        "/images/products/royal1.avif",
+        "/images/products/other10.avif"
+      ],
+      "inStock": false,
+      "features": [
+        "Victorian wing design",
+        "Traditional craftsmanship",
+        "Comfortable high back",
+        "Suitable for formal settings",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Fabric & Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "23",
+      "name": "Wooden Ottoman Center Table",
+      "description": "Rustic wooden center table with storage compartment. This dual-purpose piece combines the functionality of a coffee table with hidden storage space. The solid wood construction and natural finish add warmth and character to living rooms.",
+      "price": 85000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "center-tables",
+      "color": "Walnut",
+      "images": [
+        "/images/products/center-tables3.avif",
+        "/images/products/center-tables1.avif",
+        "/images/products/dinning3.avif",
+        "/images/products/product5.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Solid wood construction",
+        "Hidden storage compartment",
+        "Rustic finish",
+        "Suitable for living rooms",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Solid Walnut Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "24",
+      "name": "Extendable Dining Table",
+      "description": "Space-saving dining table that extends for more guests. This innovative table features a hidden extension mechanism that effortlessly accommodates extra diners. The seamless design and quality construction make it perfect for homes where space is at a premium.",
+      "price": 195000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "dinning",
+      "color": "Mahogany",
+      "images": [
+        "/images/products/dinning3.avif",
+        "/images/products/dinning5.avif",
+        "/images/products/office-equipment3.avif",
+        "/images/products/center-tables5.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Extendable design",
+        "Space-saving solution",
+        "Smooth extension mechanism",
+        "Suitable for small to medium spaces",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Mahogany Wood",
+        "warranty": "1 Year",
+        "dimension": "Extendable",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "25",
+      "name": "Imperial Dining Suite",
+      "description": "Grand imperial dining set with ornate detailing. This magnificent collection showcases the pinnacle of formal dining furniture, with hand-carved embellishments, premium upholstery, and a commanding presence that transforms any dining room into a palace.",
+      "price": 720000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "royal-dinning",
+      "color": "Mahogany",
+      "images": [
+        "/images/products/royal-dinning3.avif",
+        "/images/products/royal-dinning5.avif",
+        "/images/products/royal2.avif",
+        "/images/products/dinning2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Imperial design with ornate details",
+        "Premium upholstery",
+        "Handcrafted construction",
+        "Suitable for grand dining halls",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Mahogany & Velvet",
+        "warranty": "1 Year",
+        "dimension": "Grand Set",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "26",
+      "name": "Office Conference Table",
+      "description": "Large conference table for meetings, seats 10-12 people. This professional-grade table features a spacious surface for collaborative work, integrated cable management, and a durable finish that withstands daily business use. Perfect for boardrooms and meeting spaces.",
+      "price": 320000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "office-equipment",
+      "color": "Espresso",
+      "images": [
+        "/images/products/office-equipment3.avif",
+        "/images/products/office-equipment1.avif",
+        "/images/products/dinning4.avif",
+        "/images/products/stands3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Large seating capacity",
+        "Professional finish",
+        "Cable management built-in",
+        "Suitable for corporate environments",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Engineered Wood",
+        "warranty": "1 Year",
+        "dimension": "Conference Size",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "27",
+      "name": "Outdoor Lounge Chair",
+      "description": "Reclining outdoor lounge chair with cushions. This comfortable lounger features adjustable positioning, weather-resistant materials, and plush cushions for ultimate relaxation. Ideal for poolside lounging or garden retreats.",
+      "price": 72000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "sitout",
+      "color": "Navy Blue",
+      "images": [
+        "/images/products/sitout4.avif",
+        "/images/products/sitout6.avif",
+        "/images/products/product1.avif",
+        "/images/products/other1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Adjustable reclining positions",
+        "Weather-resistant construction",
+        "Comfortable cushioning",
+        "Suitable for outdoor relaxation",
+        "Easy to clean"
+      ],
+      "otherSpecifications": {
+        "material": "Aluminum & Fabric",
+        "warranty": "1 Year",
+        "dimension": "Lounger Size",
+        "weight": "As Specified",
+        "assembly": "Minimal assembly required",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "28",
+      "name": "Leather Upholstered Panel",
+      "description": "Luxurious leather-padded wall panel for bedrooms. These premium panels add sophistication and acoustic benefits to any room. The genuine leather surface is soft to the touch and adds a hotel-like luxury to bedroom walls.",
+      "price": 45000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "wall-panels",
+      "color": "Gray",
+      "images": [
+        "/images/products/wall-panels3.avif",
+        "/images/products/wall-panels2.avif",
+        "/images/products/english-chairs1.avif",
+        "/images/products/other4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Genuine leather upholstery",
+        "Acoustic benefits",
+        "Luxurious appearance",
+        "Suitable for bedrooms and offices",
+        "Professional installation available"
+      ],
+      "otherSpecifications": {
+        "material": "Genuine Leather",
+        "warranty": "1 Year",
+        "dimension": "Per Panel",
+        "weight": "Moderate",
+        "assembly": "Professional installation recommended",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "29",
+      "name": "Plant Stand Set",
+      "description": "Set of 3 decorative plant stands in different heights. These elegant stands showcase your plants at varying elevations, creating visual interest and dimension. The metallic finish adds a contemporary touch to indoor gardens.",
+      "price": 38000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "stands",
+      "color": "Gold",
+      "images": [
+        "/images/products/stands3.avif",
+        "/images/products/stands1.avif",
+        "/images/products/sitout5.avif",
+        "/images/products/wall-panels1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Set of 3 different heights",
+        "Decorative metallic finish",
+        "Sturdy construction",
+        "Suitable for indoor plants",
+        "Easy assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Metal",
+        "warranty": "1 Year",
+        "dimension": "Varied Heights",
+        "weight": "Lightweight",
+        "assembly": "Simple DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "30",
+      "name": "Bar Cabinet",
+      "description": "Elegant bar cabinet with wine rack and glass holders. This sophisticated piece features dedicated storage for bottles, stemware, and bar accessories. The rich finish and thoughtful design make entertaining effortless and stylish.",
+      "price": 125000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Mahogany",
+      "images": [
+        "/images/products/other3.avif",
+        "/images/products/other7.avif",
+        "/images/products/office-equipment5.avif",
+        "/images/products/royal4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Dedicated wine rack",
+        "Glass holder compartments",
+        "Elegant design",
+        "Suitable for entertaining",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Mahogany Wood",
+        "warranty": "1 Year",
+        "dimension": "Cabinet Size",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "31",
+      "name": "Royal Palace Sofa",
+      "description": "Majestic palace-style sofa with ornate carvings and plush cushioning. This grand piece features intricate hand-carved details, luxurious upholstery, and exceptional comfort. Designed to be the centerpiece of any formal living room or reception area.",
+      "price": 520000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "royal-antics",
+      "color": "Cream",
+      "images": [
+        "/images/products/royal4.avif",
+        "/images/products/royal5.avif",
+        "/images/products/royal-dinning4.avif",
+        "/images/products/product3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Ornate hand-carved details",
+        "Plush cushioning",
+        "Grand design",
+        "Suitable for luxury interiors",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Fabric & Carved Wood",
+        "warranty": "1 Year",
+        "dimension": "Grand Sofa",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "32",
+      "name": "Oxford Reading Chair",
+      "description": "Sophisticated reading chair with high back and rolled arms. This elegant chair combines traditional English styling with modern comfort features. Perfect for libraries, studies, or cozy reading corners.",
+      "price": 165000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "english-chairs",
+      "color": "Navy Blue",
+      "images": [
+        "/images/products/english-chairs4.avif",
+        "/images/products/english-chairs3.avif",
+        "/images/products/stands4.avif",
+        "/images/products/other8.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "High back support",
+        "Classic rolled arms",
+        "Premium upholstery",
+        "Suitable for reading areas",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Fabric & Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "33",
+      "name": "Designer Coffee Table",
+      "description": "Contemporary designer coffee table with geometric base. This striking piece features an artistic base design that doubles as a conversation starter. The combination of materials and unique silhouette makes it perfect for modern, design-conscious spaces.",
+      "price": 105000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "center-tables",
+      "color": "Black",
+      "images": [
+        "/images/products/center-tables4.avif",
+        "/images/products/center-tables2.avif",
+        "/images/products/royal3.avif",
+        "/images/products/office-equipment6.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Unique geometric design",
+        "Contemporary styling",
+        "Sturdy construction",
+        "Suitable for modern interiors",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Metal & Glass",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "34",
+      "name": "Round Dining Set",
+      "description": "Round dining table with 4 modern chairs. This space-efficient set promotes conversation and intimacy during meals. The circular design fits well in smaller dining areas while the modern aesthetic keeps your space current.",
+      "price": 210000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "dinning",
+      "color": "White",
+      "images": [
+        "/images/products/dinning4.avif",
+        "/images/products/dinning1.avif",
+        "/images/products/center-tables3.avif",
+        "/images/products/royal-dinning1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Space-efficient round design",
+        "Modern styling",
+        "Comfortable seating",
+        "Suitable for apartments and homes",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Engineered Wood & Metal",
+        "warranty": "1 Year",
+        "dimension": "Round Table",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "35",
+      "name": "Palace Dining Ensemble",
+      "description": "Luxurious palace-style dining furniture with gold accents. This opulent collection features gilded details, premium upholstery, and masterful craftsmanship. Every piece exudes royalty and transforms dining into a regal experience.",
+      "price": 650000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 580000,
+      "category": "royal-dinning",
+      "color": "Cream",
+      "images": [
+        "/images/products/royal-dinning4.avif",
+        "/images/products/royal-dinning3.avif",
+        "/images/products/royal5.avif",
+        "/images/products/dinning5.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Palace-style design",
+        "Gold accent details",
+        "Premium craftsmanship",
+        "Suitable for luxury dining",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Wood & Velvet",
+        "warranty": "1 Year",
+        "dimension": "Grand Ensemble",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "36",
+      "name": "L-Shaped Office Desk",
+      "description": "Corner desk with ample workspace and cable management. This efficient L-shaped design maximizes your office space while providing separate areas for computer work and paperwork. Perfect for home offices or corporate workstations.",
+      "price": 210000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "office-equipment",
+      "color": "White",
+      "images": [
+        "/images/products/office-equipment4.avif",
+        "/images/products/office-equipment2.avif",
+        "/images/products/stands1.avif",
+        "/images/products/product2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Space-efficient L-shape",
+        "Ample work surface",
+        "Built-in cable management",
+        "Suitable for home and office",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Engineered Wood",
+        "warranty": "1 Year",
+        "dimension": "L-Shaped",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "37",
+      "name": "Garden Bistro Set",
+      "description": "Compact bistro set perfect for balconies and small gardens. This charming set includes a round table and two chairs, ideal for morning coffee or intimate outdoor dining. The weather-resistant construction ensures long-lasting enjoyment.",
+      "price": 95000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "sitout",
+      "color": "Black",
+      "images": [
+        "/images/products/sitout5.avif",
+        "/images/products/sitout2.avif",
+        "/images/products/center-tables4.avif",
+        "/images/products/english-chairs5.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Compact size for small spaces",
+        "Weather-resistant materials",
+        "Easy to clean",
+        "Suitable for balconies and patios",
+        "Simple assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Metal & Glass",
+        "warranty": "1 Year",
+        "dimension": "Compact",
+        "weight": "Lightweight",
+        "assembly": "Easy DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "38",
+      "name": "Entertainment Center",
+      "description": "Large entertainment center with multiple storage compartments. This comprehensive unit accommodates large TVs and provides organized storage for media equipment, games, and decorative items. The thoughtful design keeps your entertainment area tidy.",
+      "price": 195000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "stands",
+      "color": "Espresso",
+      "images": [
+        "/images/products/stands4.avif",
+        "/images/products/stands5.avif",
+        "/images/products/office-equipment4.avif",
+        "/images/products/other3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Multiple storage compartments",
+        "Large TV capacity",
+        "Cable management",
+        "Suitable for living rooms",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Engineered Wood",
+        "warranty": "1 Year",
+        "dimension": "Entertainment Center",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "39",
+      "name": "Room Divider Screen",
+      "description": "4-panel folding room divider with decorative design. This versatile screen creates instant privacy or defines spaces within open floor plans. The decorative pattern adds visual interest while the folding design allows for easy storage.",
+      "price": 58000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Black",
+      "images": [
+        "/images/products/other4.avif",
+        "/images/products/other9.avif",
+        "/images/products/wall-panels3.avif",
+        "/images/products/sitout1.avif"
+      ],
+      "inStock": false,
+      "features": [
+        "4-panel folding design",
+        "Decorative pattern",
+        "Portable and versatile",
+        "Suitable for various spaces",
+        "No assembly required"
+      ],
+      "otherSpecifications": {
+        "material": "Wood & Fabric",
+        "warranty": "1 Year",
+        "dimension": "4-Panel",
+        "weight": "Moderate",
+        "assembly": "Ready to use",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "40",
+      "name": "Grand Royal Lounger",
+      "description": "Opulent lounger with tufted velvet and gold trim details. This luxurious piece combines regal styling with exceptional comfort. The deep tufting and metallic accents create a statement piece that elevates any formal setting.",
+      "price": 390000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 340000,
+      "category": "royal-antics",
+      "color": "Purple",
+      "images": [
+        "/images/products/royal5.avif",
+        "/images/products/royal2.avif",
+        "/images/products/english-chairs2.avif",
+        "/images/products/royal-dinning2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Deep tufted velvet",
+        "Gold trim accents",
+        "Luxurious comfort",
+        "Suitable for formal spaces",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Velvet & Gold-Trimmed Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "41",
+      "name": "Cambridge Accent Chair",
+      "description": "Refined accent chair with turned wooden legs and elegant fabric. This versatile chair adds sophistication to any room with its classic lines and quality construction. The comfortable padding makes it perfect for extended sitting.",
+      "price": 138000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 118000,
+      "category": "english-chairs",
+      "color": "Gray",
+      "images": [
+        "/images/products/english-chairs5.avif",
+        "/images/products/english-chairs4.avif",
+        "/images/products/other5.avif",
+        "/images/products/product4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Elegant fabric upholstery",
+        "Turned wooden legs",
+        "Comfortable padding",
+        "Suitable for various settings",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Fabric & Wood",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "42",
+      "name": "Nesting Center Tables",
+      "description": "Set of 3 nesting tables for versatile arrangement. These smart tables can be stacked together to save space or separated for flexible use throughout your home. The graduated sizes and modern design make them incredibly functional.",
+      "price": 78000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 65000,
+      "category": "center-tables",
+      "color": "Oak",
+      "images": [
+        "/images/products/center-tables5.avif",
+        "/images/products/center-tables3.avif",
+        "/images/products/stands2.avif",
+        "/images/products/sitout4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Set of 3 tables",
+        "Space-saving nesting design",
+        "Versatile arrangement options",
+        "Suitable for any room",
+        "Minimal assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Oak Wood",
+        "warranty": "1 Year",
+        "dimension": "Graduated Sizes",
+        "weight": "As Specified",
+        "assembly": "Simple DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "43",
+      "name": "Farmhouse Dining Collection",
+      "description": "Rustic farmhouse dining set with bench seating. This warm and inviting collection features distressed wood finishes, bench-style seating, and a sturdy trestle base. Perfect for creating a casual, family-friendly dining atmosphere.",
+      "price": 295000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 265000,
+      "category": "dinning",
+      "color": "Natural Wood",
+      "images": [
+        "/images/products/dinning5.avif",
+        "/images/products/dinning2.avif",
+        "/images/products/office-equipment1.avif",
+        "/images/products/royal1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Farmhouse rustic design",
+        "Bench seating included",
+        "Sturdy trestle base",
+        "Suitable for family dining",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Natural Wood",
+        "warranty": "1 Year",
+        "dimension": "Family Size",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "44",
+      "name": "Regal Feast Table Set",
+      "description": "Magnificent royal dining set for grand occasions. This impressive collection showcases superior craftsmanship with elaborate carvings, rich wood tones, and luxurious upholstered seating. Designed to host memorable gatherings in style.",
+      "price": 590000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "royal-dinning",
+      "color": "Dark Walnut",
+      "images": [
+        "/images/products/royal-dinning5.avif",
+        "/images/products/royal-dinning2.avif",
+        "/images/products/dinning3.avif",
+        "/images/products/royal4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Elaborate wood carvings",
+        "Rich dark walnut finish",
+        "Luxurious upholstered chairs",
+        "Suitable for grand occasions",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Dark Walnut & Premium Fabric",
+        "warranty": "1 Year",
+        "dimension": "Grand Table Set",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "45",
+      "name": "Office Storage Cabinet",
+      "description": "Tall storage cabinet with lockable doors and shelves. This secure cabinet keeps important documents and supplies organized and protected. The adjustable shelves accommodate items of various sizes while the professional finish suits any office decor.",
+      "price": 135000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 115000,
+      "category": "office-equipment",
+      "color": "Gray",
+      "images": [
+        "/images/products/office-equipment5.avif",
+        "/images/products/office-equipment3.avif",
+        "/images/products/stands3.avif",
+        "/images/products/other6.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Lockable doors for security",
+        "Adjustable shelves",
+        "Professional finish",
+        "Suitable for offices",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Metal & Wood",
+        "warranty": "1 Year",
+        "dimension": "Tall Cabinet",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "46",
+      "name": "Outdoor Sectional Sofa",
+      "description": "Modular outdoor sectional with weatherproof cushions. This versatile seating arrangement can be configured to fit your space perfectly. The all-weather materials and comfortable cushions make it ideal for outdoor entertaining.",
+      "price": 385000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 345000,
+      "category": "sitout",
+      "color": "Gray",
+      "images": [
+        "/images/products/sitout6.avif",
+        "/images/products/sitout4.avif",
+        "/images/products/product5.avif",
+        "/images/products/center-tables1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Modular sectional design",
+        "Weatherproof cushions",
+        "All-weather materials",
+        "Suitable for patios and decks",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Synthetic Wicker & Fabric",
+        "warranty": "1 Year",
+        "dimension": "Modular Sectional",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "47",
+      "name": "Corner Display Unit",
+      "description": "Space-saving corner stand for display and storage. This clever design makes use of often-wasted corner space, providing shelving for books, decor, or collectibles. The vertical design draws the eye upward and creates visual interest.",
+      "price": 68000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 58000,
+      "category": "stands",
+      "color": "Oak",
+      "images": [
+        "/images/products/stands5.avif",
+        "/images/products/stands2.avif",
+        "/images/products/wall-panels1.avif",
+        "/images/products/other7.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Space-saving corner design",
+        "Multiple shelves",
+        "Sturdy construction",
+        "Suitable for any room",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Oak Wood",
+        "warranty": "1 Year",
+        "dimension": "Corner Unit",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "48",
+      "name": "Coat Rack Stand",
+      "description": "Elegant standing coat rack with umbrella holder. This functional piece keeps entryways organized with hooks for coats and a base compartment for umbrellas. The stylish design adds elegance to utilitarian storage.",
+      "price": 35000,
+      "shipping": 3000,
+      "featured": true,
+      "category": "other",
+      "color": "Bronze",
+      "images": [
+        "/images/products/other5.avif",
+        "/images/products/other1.avif",
+        "/images/products/english-chairs3.avif",
+        "/images/products/office-equipment6.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Multiple coat hooks",
+        "Umbrella holder base",
+        "Elegant bronze finish",
+        "Suitable for entryways",
+        "No assembly required"
+      ],
+      "otherSpecifications": {
+        "material": "Metal",
+        "warranty": "1 Year",
+        "dimension": "Standard",
+        "weight": "Moderate",
+        "assembly": "Ready to use",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "49",
+      "name": "Premium Leather Sofa",
+      "description": "Luxurious leather sofa with deep seating and chrome legs. This contemporary sofa features top-grain leather, generous proportions for comfort, and sleek metal legs. The timeless design and quality materials ensure it will be cherished for years.",
+      "price": 425000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Brown",
+      "images": [
+        "/images/products/product1.avif",
+        "/images/products/product3.avif",
+        "/images/products/royal3.avif",
+        "/images/products/dinning1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Top-grain leather",
+        "Deep comfortable seating",
+        "Chrome legs",
+        "Suitable for modern homes",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Top-Grain Leather & Metal",
+        "warranty": "1 Year",
+        "dimension": "Standard Sofa",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "50",
+      "name": "Modern Sectional Couch",
+      "description": "Large L-shaped sectional with chaise lounge. This spacious sectional provides ample seating for family and guests while the chaise lounge adds a luxurious lounging spot. The neutral tones and clean lines suit any contemporary interior.",
+      "price": 385000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 345000,
+      "category": "other",
+      "color": "Gray",
+      "images": [
+        "/images/products/product2.avif",
+        "/images/products/product5.avif",
+        "/images/products/center-tables2.avif",
+        "/images/products/sitout6.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "L-shaped sectional design",
+        "Chaise lounge included",
+        "Ample seating capacity",
+        "Suitable for large living rooms",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Premium Fabric & Wood Frame",
+        "warranty": "1 Year",
+        "dimension": "L-Shaped Sectional",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "51",
+      "name": "Velvet Accent Chair",
+      "description": "Plush velvet chair with gold metal legs. This statement chair brings glamour and comfort to any room. The rich velvet upholstery paired with gleaming gold legs creates a piece that's both elegant and eye-catching.",
+      "price": 115000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Emerald",
+      "images": [
+        "/images/products/product3.avif",
+        "/images/products/product4.avif",
+        "/images/products/royal5.avif",
+        "/images/products/english-chairs1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Plush velvet upholstery",
+        "Gold metal legs",
+        "Statement design",
+        "Suitable for any room",
+        "Minimal assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Velvet & Metal",
+        "warranty": "1 Year",
+        "dimension": "Accent Chair",
+        "weight": "As Specified",
+        "assembly": "Simple DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "52",
+      "name": "Recliner Chair",
+      "description": "Comfortable reclining chair with footrest. This relaxation essential features smooth reclining mechanisms, padded armrests, and a supportive footrest. Perfect for unwinding after a long day or enjoying leisurely weekends.",
+      "price": 155000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 135000,
+      "category": "other",
+      "color": "Beige",
+      "images": [
+        "/images/products/product4.avif",
+        "/images/products/product1.avif",
+        "/images/products/office-equipment2.avif",
+        "/images/products/stands4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Smooth reclining mechanism",
+        "Built-in footrest",
+        "Padded armrests",
+        "Suitable for living rooms",
+        "Minimal assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Fabric & Metal Frame",
+        "warranty": "1 Year",
+        "dimension": "Recliner",
+        "weight": "As Specified",
+        "assembly": "Simple DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "53",
+      "name": "Loveseat Sofa",
+      "description": "Compact 2-seater sofa perfect for small spaces. This loveseat delivers full-sized comfort in a space-saving design. Ideal for apartments, bedrooms, or creating intimate seating areas within larger rooms.",
+      "price": 195000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Navy",
+      "images": [
+        "/images/products/product5.avif",
+        "/images/products/product2.avif",
+        "/images/products/dinning4.avif",
+        "/images/products/other10.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Compact 2-seater design",
+        "Space-saving",
+        "Comfortable seating",
+        "Suitable for small spaces",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Fabric & Wood Frame",
+        "warranty": "1 Year",
+        "dimension": "Loveseat",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "54",
+      "name": "Shoe Storage Bench",
+      "description": "Entryway bench with shoe storage compartments. This dual-purpose piece provides comfortable seating while hiding away shoes in organized compartments below. The cushioned top makes it easy to put on or remove footwear.",
+      "price": 72000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 62000,
+      "category": "other",
+      "color": "White",
+      "images": [
+        "/images/products/other6.avif",
+        "/images/products/other2.avif",
+        "/images/products/center-tables5.avif",
+        "/images/products/wall-panels2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Shoe storage compartments",
+        "Cushioned seating",
+        "Entryway organization",
+        "Suitable for hallways",
+        "Easy assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Wood & Fabric",
+        "warranty": "1 Year",
+        "dimension": "Bench",
+        "weight": "As Specified",
+        "assembly": "Easy DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "55",
+      "name": "Decorative Bookshelf",
+      "description": "Artistic bookshelf with unique geometric design. This sculptural piece serves as both storage and art, with asymmetrical compartments creating visual drama. Perfect for displaying books, plants, and decorative objects.",
+      "price": 88000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Walnut",
+      "images": [
+        "/images/products/other7.avif",
+        "/images/products/other10.avif",
+        "/images/products/stands1.avif",
+        "/images/products/royal2.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Unique geometric design",
+        "Multiple compartments",
+        "Artistic appearance",
+        "Suitable for any room",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Walnut Wood",
+        "warranty": "1 Year",
+        "dimension": "Bookshelf",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "56",
+      "name": "Console Table",
+      "description": "Slim console table perfect for hallways and entryways. This sleek table provides a surface for keys, mail, and decorative items without taking up much floor space. The understated design works with any decor style.",
+      "price": 65000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Black",
+      "images": [
+        "/images/products/other8.avif",
+        "/images/products/other3.avif",
+        "/images/products/dinning2.avif",
+        "/images/products/sitout1.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Slim space-saving design",
+        "Perfect for narrow spaces",
+        "Versatile styling",
+        "Suitable for entryways",
+        "Easy assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Metal & Wood",
+        "warranty": "1 Year",
+        "dimension": "Console",
+        "weight": "Lightweight",
+        "assembly": "Easy DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "57",
+      "name": "Magazine Rack",
+      "description": "Modern magazine and newspaper organizer. This sleek holder keeps reading materials tidy and accessible. The contemporary design and metallic finish make it a stylish addition to living rooms or waiting areas.",
+      "price": 28000,
+      "shipping": 3000,
+      "featured": false,
+      "discountPrice": 23000,
+      "category": "other",
+      "color": "Gold",
+      "images": [
+        "/images/products/other9.avif",
+        "/images/products/other4.avif",
+        "/images/products/wall-panels3.avif",
+        "/images/products/english-chairs4.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Organized storage",
+        "Modern design",
+        "Metallic finish",
+        "Suitable for various rooms",
+        "No assembly required"
+      ],
+      "otherSpecifications": {
+        "material": "Metal",
+        "warranty": "1 Year",
+        "dimension": "Compact",
+        "weight": "Lightweight",
+        "assembly": "Ready to use",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "58",
+      "name": "Jewelry Armoire",
+      "description": "Standing jewelry cabinet with mirror and drawers. This elegant piece keeps jewelry organized and protected with velvet-lined drawers, necklace hooks, and ring holders. The full-length mirror makes it perfect for dressing areas.",
+      "price": 95000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "other",
+      "color": "Cherry",
+      "images": [
+        "/images/products/other10.avif",
+        "/images/products/other7.avif",
+        "/images/products/office-equipment5.avif",
+        "/images/products/product3.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Full-length mirror",
+        "Velvet-lined drawers",
+        "Multiple storage compartments",
+        "Suitable for bedrooms",
+        "Minimal assembly"
+      ],
+      "otherSpecifications": {
+        "material": "Cherry Wood",
+        "warranty": "1 Year",
+        "dimension": "Standing Cabinet",
+        "weight": "As Specified",
+        "assembly": "Simple DIY",
+        "origin": "Imported"
+      }
+    },
+    {
+      "id": "59",
+      "name": "Standing Desk",
+      "description": "Adjustable height standing desk for ergonomic working. This innovative desk promotes better health with its easy height adjustment system. Switch between sitting and standing throughout your workday to reduce fatigue and improve productivity.",
+      "price": 195000,
+      "shipping": 3000,
+      "featured": false,
+      "category": "office-equipment",
+      "color": "Oak",
+      "images": [
+        "/images/products/office-equipment6.avif",
+        "/images/products/office-equipment4.avif",
+        "/images/products/product5.avif",
+        "/images/products/stands5.avif"
+      ],
+      "inStock": true,
+      "features": [
+        "Adjustable height mechanism",
+        "Promotes healthy working",
+        "Sturdy construction",
+        "Suitable for offices and homes",
+        "Professional assembly included with delivery"
+      ],
+      "otherSpecifications": {
+        "material": "Oak Wood & Metal Frame",
+        "warranty": "1 Year",
+        "dimension": "Adjustable",
+        "weight": "As Specified",
+        "assembly": "Professional service included",
+        "origin": "Imported"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "productId": "10",
+      "name": "John Doe",
+      "role": "Customer",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "Absolutely love this English armchair! The craftsmanship is top-notch and it adds such a classic touch to my living room."
+    },
+    {
+      "id": 2,
+      "productId": "1",
+      "name": "Jane Smith",
+      "role": "Homeowner",
+      "image": "/images/testimonials/user.png",
+      "rating": 4,
+      "comment": "The office desk is sleek and functional. It fits perfectly in my home office setup."
+    },
+    {
+      "id": 3,
+      "productId": "2",
+      "name": "Emily Johnson",
+      "role": "Interior Designer",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "The dining set exceeded my expectations! The quality is excellent and it's very comfortable."
+    },
+    {
+      "id": 4,
+      "productId": "3",
+      "name": "Michael Brown",
+      "role": "Office Manager",
+      "image": "/images/testimonials/user.png",
+      "rating": 4,
+      "comment": "The round dining set is perfect for my small apartment. It’s stylish and functional."
+    },
+    {
+      "id": 5,
+      "productId": "4",
+      "name": "Sarah Davis",
+      "role": "Hotel Owner",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "These nesting tables are a game-changer! They save so much space and look great."
+    },
+    {
+      "id": 6,
+      "productId": "5",
+      "name": "David Wilson",
+      "role": "Customer",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "The sectional couch is incredibly comfortable and perfect for family movie nights."
+    },
+    {
+      "id": 7,
+      "productId": "6",
+      "name": "Laura Martinez",
+      "role": "Homeowner",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "This designer coffee table is a showstopper! It really elevates the look of my living space."
+    },
+    {
+      "id": 8,
+      "productId": "6",
+      "name": "James Anderson",
+      "role": "Interior Designer",
+      "image": "/images/testimonials/user.png",
+      "rating": 4,
+      "comment": "Great design and sturdy build. Just wish it came in more color options."
+    },
+    {
+      "id": 9,
+      "productId": "7",
+      "name": "Sophia Taylor",
+      "role": "Customer",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "The royal dining set is fit for a king! My family loves gathering around it for meals."
+    },
+    {
+      "id": 10,
+      "productId": "7",
+      "name": "James Thomas",
+      "role": "Interior Enthusiast",
+      "image": "/images/testimonials/user.png",
+      "rating": 4,
+      "comment": "Beautiful craftsmanship and very comfortable chairs. A bit pricey, but you get what you pay for."
+    },
+    {
+      "id": 11,
+      "productId": "8",
+      "name": "Olivia Harris",
+      "role": "Office Worker",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "This ergonomic office desk has transformed my work-from-home setup. Highly recommend!"
+    },
+    {
+      "id": 12,
+      "productId": "8",
+      "name": "William Clark",
+      "role": "Customer",
+      "image": "/images/testimonials/user.png",
+      "rating": 4,
+      "comment": "Sturdy and functional. The cable management feature is a lifesaver."
+    },
+    {
+      "id": 13,
+      "productId": "9",
+      "name": "Isabella Lewis",
+      "role": "Patio Owner",
+      "image": "/images/testimonials/user.png",
+      "rating": 5,
+      "comment": "The sit-out furniture set is perfect for my patio. Comfortable and weather-resistant!"
+    },
+    {
+      "id": 14,
+      "productId": "1",
+      "name": "Liam Walker",
+      "role": "Customer",
+      "image": "/images/testimonials/user.png",
+      "rating": 4,
+      "comment": "Great quality and design. Took a while to assemble, but looks fantastic."
+    }
+  ],
+  "coupons": [
+    {
+      "id": "1",
+      "code": "SAVE10",
+      "type": "percentage",
+      "amount": 90,
+      "isActive": true,
+      "expiresAt": "2026-12-31"
+    },
+    {
+      "id": "2",
+      "code": "FLAT500",
+      "type": "fixed",
+      "amount": 500000,
+      "isActive": true,
+      "expiresAt": "2026-12-31"
+    }
+  ]
+}
