@@ -295,7 +295,7 @@ function FaqPage() {
               placeholder="Search for answers..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-12 pr-4 py-4 border border-gray-300 rounded-lg focus:border-[#b9855e] focus:ring-2 focus:ring-[#b9855e]/20 focus:outline-none transition-all duration-200"
+              className="w-full pl-12 pr-4 py-4 border border-gray-300 rounded-lg focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-all duration-200"
             />
             <svg
               className="absolute left-4 top-1/2 -translate-y-1/2 w-6 h-6 text-gray-400"
@@ -321,7 +321,7 @@ function FaqPage() {
                 key={category.name}
                 onClick={() => setSelectedCategory(category.name)}
                 className={`flex items-center gap-2 px-4 py-2 rounded-lg font-medium transition-all capitalize ${selectedCategory === category.name
-                    ? "bg-[#b9855e] text-white shadow-md"
+                    ? "bg-primary text-white shadow-md"
                     : "bg-white text-gray-700 hover:bg-gray-100 border border-gray-300"
                   }`}
               >
@@ -409,7 +409,7 @@ function FaqPage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
               href="tel:+2348034567890"
-              className="inline-flex items-center justify-center px-6 py-3 bg-white text-[#b9855e] rounded-lg hover:bg-gray-100 transition-colors font-semibold"
+              className="inline-flex items-center justify-center px-6 py-3 bg-white text-primary rounded-lg hover:bg-gray-100 transition-colors font-semibold"
             >
               <svg
                 className="w-5 h-5 mr-2"
@@ -430,7 +430,7 @@ function FaqPage() {
               href="https://wa.me/2348034567890"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center px-6 py-3 bg-white text-[#b9855e] rounded-lg hover:bg-gray-100 transition-colors font-semibold"
+              className="inline-flex items-center justify-center px-6 py-3 bg-white text-primary rounded-lg hover:bg-gray-100 transition-colors font-semibold"
             >
               <svg
                 className="w-5 h-5 mr-2"

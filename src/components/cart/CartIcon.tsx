@@ -11,8 +11,8 @@ function CartIcon() {
       to="/cart"
       className={({ isActive }) =>
         `relative p-2 rounded-lg transition-colors ${isActive
-          ? "text-[#b9855e] bg-[#b9855e22]"
-          : "text-gray-700 hover:text-[#b9855e] hover:bg-gray-100"
+          ? "text-primary bg-[#b9855e22]"
+          : "text-gray-700 hover:text-primary hover:bg-gray-100"
         }`
       }
     >

@@ -284,7 +284,7 @@ function ShopPage() {
         <div className="grid lg:grid-cols-4 gap-8">
           {/* Filters Sidebar */}
           <div className="lg:col-span-1">
-            <p className="mb-4 text-[#b9855e]">
+            <p className="mb-4 text-primary">
               Showing {filteredProducts.length} of {products.length} products
             </p>
             <ProductFilters

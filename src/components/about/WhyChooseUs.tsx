@@ -7,7 +7,7 @@ interface Benefit {
 }
 
 function WhyChooseUs() {
-  const iconStyle = "w-8 h-8 text-[#b9855e]";
+  const iconStyle = "w-8 h-8 text-primary";
 
   const benefits: Benefit[] = [
     {

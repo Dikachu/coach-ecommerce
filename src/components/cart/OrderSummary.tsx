@@ -67,7 +67,7 @@ const OrderSummary: React.FC<OrderSummaryProps> = ({
                 }
               }}
               placeholder="Promo code"
-              className="flex-1 px-4 py-3 border border-gray-300 rounded-lg focus:border-[#b9855e] focus:ring-2 focus:ring-[#b9855e]/20 focus:outline-none transition-all duration-200 text-sm"
+              className="flex-1 px-4 py-3 border border-gray-300 rounded-lg focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-all duration-200 text-sm"
             />
             <Button
               variant="primary"
@@ -240,7 +240,7 @@ export default OrderSummary;
 //               value={promoCode}
 //               onChange={(e) => setPromoCode(e.target.value)}
 //               placeholder="Promo code"
-//               className="flex-1 px-4 py-3 border border-gray-300 rounded-lg focus:border-[#b9855e] focus:ring-2 focus:ring-[#b9855e]/20 focus:outline-none transition-all duration-200 text-sm"
+//               className="flex-1 px-4 py-3 border border-gray-300 rounded-lg focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-all duration-200 text-sm"
 //             />
 //             <Button
 //               variant="primary"

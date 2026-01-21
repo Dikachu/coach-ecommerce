@@ -55,8 +55,8 @@ function Navbar() {
                 className={({ isActive }) =>
                   `text-sm transition-colors duration-200 ${
                     isActive
-                      ? "text-[#b9855e] border-b-2 border-[#b9855e] pb-1 font-bold"
-                      : "text-gray-700 hover:text-[#b9855e] font-medium"
+                      ? "text-primary border-b-2 border-primary pb-1 font-bold"
+                      : "text-gray-700 hover:text-primary font-medium"
                   }`
                 }
               >
@@ -76,7 +76,7 @@ function Navbar() {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className="md:hidden p-2 rounded-lg text-gray-700 hover:text-[#b9855e] hover:bg-gray-100 transition-colors"
+              className="md:hidden p-2 rounded-lg text-gray-700 hover:text-primary hover:bg-gray-100 transition-colors"
               aria-label="Toggle mobile menu"
             >
               {isMobileMenuOpen ? (
@@ -124,7 +124,7 @@ function Navbar() {
                   className={({ isActive }) =>
                     `px-4 py-2 text-sm font-medium rounded-lg transition-colors ${
                       isActive
-                        ? "bg-blue-50 text-[#b9855e]"
+                        ? "bg-blue-50 text-primary"
                         : "text-gray-700 hover:bg-gray-100"
                     }`
                   }

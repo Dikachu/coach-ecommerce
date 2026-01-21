@@ -6,7 +6,7 @@ interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {
 
 function Input({ fullWidth = false, additionalClasses}: InputProps) {
     const baseStyles =
-      "pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:border-[#b9855e] focus:ring-2 focus:ring-[#b9855e]/20 focus:outline-none transition-all duration-200";
+      "pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-all duration-200";
 
     const widthStyle = fullWidth ? "w-full" : "w-fit";
 

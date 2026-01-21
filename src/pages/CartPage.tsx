@@ -59,7 +59,7 @@ const CartPage: React.FC<CartProps> = ({ onCheckout }) => {
                 <h1 className="text-3xl md:text-4xl font-bold text-black mb-2">
                   Shopping Cart
                 </h1>
-                <p className="text-[#b9855e]">
+                <p className="text-primary">
                   <b>{cartCount}</b>{" "}
                   {cartCount === 1 ? "item" : "items"} in your cart
                 </p>

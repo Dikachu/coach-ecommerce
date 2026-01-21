@@ -85,7 +85,7 @@ function ProductFilters({
       : 0);
 
   const defaultInputStyles =
-    "w-4 h-4 border-gray-300 rounded focus:ring-blue-500 accent-[#b9855e] focus:ring-[#b9855e] focus:ring-offset-1";
+    "w-4 h-4 border-gray-300 rounded focus:ring-blue-500 accent-primary focus:ring-primary focus:ring-offset-1";
 
   return (
     <>
@@ -133,7 +133,7 @@ function ProductFilters({
               placeholder="Search..."
               value={filters.searchQuery}
               onChange={handleSearchChange}
-              className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:border-[#b9855e] focus:ring-2 focus:ring-[#b9855e]/20 focus:outline-none transition-all duration-200"
+              className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-all duration-200"
             />
             <svg
               className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400"
@@ -229,7 +229,7 @@ function ProductFilters({
                   onClick={() => toggleColor(color)}
                   className={`px-3 py-1.5 text-xs font-medium rounded-full border-2 transition-all ${
                     isSelected
-                      ? "border-[#b9855e] bg-[#b9855e44] text-[#b9855e]"
+                      ? "border-primary bg-[#b9855e44] text-primary"
                       : "border-gray-300 bg-white text-gray-700 hover:border-gray-400"
                   }`}
                 >
@@ -256,7 +256,7 @@ function ProductFilters({
                 max={filters.maxPrice}
                 value={filters.minPrice}
                 onChange={(e) => handlePriceChange("min", e.target.value)}
-                className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:border-[#b9855e] focus:ring-2 focus:ring-[#b9855e]/20 focus:outline-none transition-all duration-200"
+                className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-all duration-200"
               />
             </div>
             <div>
@@ -269,7 +269,7 @@ function ProductFilters({
                 max={priceRange.max}
                 value={filters.maxPrice}
                 onChange={(e) => handlePriceChange("max", e.target.value)}
-                className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:border-[#b9855e] focus:ring-2 focus:ring-[#b9855e]/20 focus:outline-none transition-all duration-200"
+                className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:border-primary focus:ring-2 focus:ring-primary/20 focus:outline-none transition-all duration-200"
               />
             </div>
           </div>

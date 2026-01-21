@@ -25,7 +25,7 @@ function ProfileIcon() {
     <div className="relative" ref={profileRef}>
       <button
         onClick={() => setIsProfileOpen(!isProfileOpen)}
-        className="p-2 rounded-lg text-gray-700 hover:text-[#b9855e] hover:bg-gray-100 transition-colors cursor-pointer"
+        className="p-2 rounded-lg text-gray-700 hover:text-primary hover:bg-gray-100 transition-colors cursor-pointer"
         aria-label="User profile menu"
       >
         <svg
@@ -51,7 +51,7 @@ function ProfileIcon() {
             className={({ isActive }) =>
               `block px-4 py-2 text-sm transition-colors ${
                 isActive
-                  ? "bg-blue-50 text-[#b9855e] font-medium"
+                  ? "bg-blue-50 text-primary font-medium"
                   : "text-gray-700 hover:bg-gray-100"
               }`
             }
@@ -79,7 +79,7 @@ function ProfileIcon() {
             className={({ isActive }) =>
               `block px-4 py-2 text-sm transition-colors ${
                 isActive
-                  ? "bg-blue-50 text-[#b9855e] font-medium"
+                  ? "bg-blue-50 text-primary font-medium"
                   : "text-gray-700 hover:bg-gray-100"
               }`
             }

@@ -64,7 +64,7 @@ function Location() {
               <div className="flex items-center mb-4">
                 <div className="w-12 h-12 bg-[#b9855e21] rounded-full flex items-center justify-center mr-3 shrink-0">
                   <svg
-                    className="w-6 h-6 text-[#b9855e]"
+                    className="w-6 h-6 text-primary"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -124,7 +124,7 @@ function Location() {
                   </svg>
                   <a
                     href={`tel:${location.phone.replace(/\s/g, "")}`}
-                    className="text-sm text-[#b9855e] hover:text-[#b9856f]"
+                    className="text-sm text-primary hover:text-[#b9856f]"
                   >
                     {location.phone}
                   </a>
@@ -147,7 +147,7 @@ function Location() {
                   </svg>
                   <a
                     href={`mailto:${location.email}`}
-                    className="text-sm text-[#b9855e] hover:text-[#b9856f]"
+                    className="text-sm text-primary hover:text-[#b9856f]"
                   >
                     {location.email}
                   </a>

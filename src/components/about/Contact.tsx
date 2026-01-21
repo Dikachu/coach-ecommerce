@@ -11,7 +11,7 @@ interface ContactMethod {
 }
 
 function Contact() {
-  const iconStyle = "w-8 h-8 text-[#b9855e]";
+  const iconStyle = "w-8 h-8 text-primary";
 
   const contactMethods: ContactMethod[] = [
     {
@@ -162,7 +162,7 @@ function Contact() {
                       ? "noopener noreferrer"
                       : undefined
                   }
-                  className="inline-flex items-center text-[#b9855e] hover:text-[#b9856f] font-medium"
+                  className="inline-flex items-center text-primary hover:text-[#b9856f] font-medium"
                 >
                   {method.action.label}
                   <svg
