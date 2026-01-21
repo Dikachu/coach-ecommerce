@@ -175,7 +175,7 @@ function ProductPage() {
                     key={index}
                     onClick={() => setSelectedImage(index)}
                     className={`aspect-square rounded-lg overflow-hidden border-2 transition-all ${selectedImage === index
-                      ? "border-[#b9855ea1] ring-2 ring-[#b9855e]"
+                      ? "border-[#b9855ea1] ring-2 ring-primary"
                       : "border-gray-300 hover:border-gray-400"
                       }`}
                   >
@@ -193,7 +193,7 @@ function ProductPage() {
             <div className="space-y-6">
               {/* Category */}
               <div>
-                <span className="inline-block px-3 py-1 bg-[#b9855e22] text-[#b9855e] text-sm font-medium rounded-full capitalize">
+                <span className="inline-block px-3 py-1 bg-[#b9855e22] text-primary text-sm font-medium rounded-full capitalize">
                   {product.category.replace("-", " ")}
                 </span>
               </div>
@@ -222,7 +222,7 @@ function ProductPage() {
               </div>
 
               {/* Price */}
-              <div className="flex items-baseline space-x-3">
+              <div className="flex items-baseline space-x-3 flex-wrap">
                 <span className="text-4xl font-bold text-gray-900">
                   {formatPrice(finalPrice)}
                   {/* ₦{finalPrice.toLocaleString("en-NG")} */}
@@ -463,41 +463,41 @@ function ProductPage() {
           {/* Tabs Section */}
           <div className="bg-white rounded-xl shadow-sm p-6 mb-16">
             <div className="border-b mb-6">
-              <div className="flex space-x-8">
+              <div className="flex space-x-8 justify-start scrollbar-hide overflow-x-auto text-nowrap">
                 <button
                   onClick={() => setActiveTab("description")}
                   className={`pb-4 font-semibold transition-colors relative ${activeTab === "description"
-                    ? "text-[#b9855e]"
+                    ? "text-primary"
                     : "text-gray-600 hover:text-gray-900"
                     }`}
                 >
                   Description
                   {activeTab === "description" && (
-                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-[#b9855e]" />
+                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-primary" />
                   )}
                 </button>
                 <button
                   onClick={() => setActiveTab("specifications")}
                   className={`pb-4 font-semibold transition-colors relative ${activeTab === "specifications"
-                    ? "text-[#b9855e]"
+                    ? "text-primary"
                     : "text-gray-600 hover:text-gray-900"
                     }`}
                 >
                   Specifications
                   {activeTab === "specifications" && (
-                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-[#b9855e]" />
+                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-primary" />
                   )}
                 </button>
                 <button
                   onClick={() => setActiveTab("reviews")}
                   className={`pb-4 font-semibold transition-colors relative ${activeTab === "reviews"
-                    ? "text-[#b9855e]"
+                    ? "text-primary"
                     : "text-gray-600 hover:text-gray-900"
                     }`}
                 >
                   Reviews ({productReviews.length})
                   {activeTab === "reviews" && (
-                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-[#b9855e]" />
+                    <div className="absolute bottom-0 left-0 right-0 h-0.5 bg-primary" />
                   )}
                 </button>
               </div>

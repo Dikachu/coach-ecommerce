@@ -55,7 +55,7 @@ const Testimonials = () => {
                 {activeTestimonial.comment}
               </p>
 
-              <img src="" alt="" />
+              {/* <img src="" alt="" /> */}
             </div>
 
             {/* Author Info */}
@@ -72,7 +72,7 @@ const Testimonials = () => {
               )}
 
               {/* Name and Role */}
-              <div className="flex-1">
+              <div className="">
                 <h4 className="text-base font-semibold text-black">
                   {activeTestimonial.name}
                 </h4>
@@ -82,13 +82,13 @@ const Testimonials = () => {
               </div>
 
               {/* Rating Stars */}
-              <div className="flex gap-1">
+              <div className="flex gap-1 justify-end flex-wrap flex-1 align-start">
                 {Array.from({ length: 5 }).map((_, index) => (
                   <svg
                     key={index}
-                    className={`w-5 h-5 ${
+                    className={`w-4 h-4 sm:w-5 sm:h-5 ${
                       index < activeTestimonial.rating
-                        ? "text-black fill-current"
+                        ? "text-primary fill-current"
                         : "text-gray-300 fill-current"
                     }`}
                     viewBox="0 0 20 20"

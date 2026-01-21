@@ -1,5 +1,21 @@
 @import "tailwindcss";
 
+@theme {
+    /* Define the font family variable */
+    /* --font-brand: "Your Custom Font", sans-serif; */
+
+    /* Optional: Set it as the default font-sans utility */
+    /* --font-sans: var(--font-brand); */
+
+    --color-primary: #b9855e;
+}
+
+/* @layer base {
+    body {
+        font-family: var(--font-brand);
+    }
+} */
+
 @keyframes scroll {
     0% {
         transform: translateX(0);
