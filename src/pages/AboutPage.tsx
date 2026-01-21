@@ -67,7 +67,7 @@ function AboutPage() {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <div className="absolute -bottom-6 -right-6 bg-white text-black p-6 rounded-xl shadow-lg backdrop-blur-md border border-gray-200">
+              <div className="absolute -bottom-8 -right-0 bg-white text-black p-6 rounded-xl shadow-lg backdrop-blur-md border border-gray-200">
                 <div className="text-4xl font-bold mb-1">10+</div>
                 <div className="">Years of Excellence</div>
               </div>

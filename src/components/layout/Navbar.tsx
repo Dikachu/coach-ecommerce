@@ -12,16 +12,30 @@ import ProfileIcon from "../profile/ProfileIcon";
 function Navbar() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-  // Close mobile menu when window is resized
+  // Close mobile menu when window is resized and when clicking outside
   useEffect(() => {
+    // Handle window resize
     function handleResize() {
       if (window.innerWidth >= 768) {
         setIsMobileMenuOpen(false);
       }
     }
 
+    // Add event listener
+    function handleClickOutside(event: MouseEvent) {
+      const target = event.target as HTMLElement;
+      
+      if (!target.closest("nav")) {
+        setIsMobileMenuOpen(false);
+      }
+    }
+
     window.addEventListener("resize", handleResize);
-    return () => window.removeEventListener("resize", handleResize);
+    window.addEventListener("click", handleClickOutside);
+    return () => {
+      window.removeEventListener("resize", handleResize);
+      window.removeEventListener("click", handleClickOutside);
+    };
   }, []);
 
   const navLinks = [
