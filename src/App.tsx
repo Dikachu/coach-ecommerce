@@ -1,8 +1,18 @@
-import Navbar from './components/layout/Navbar';
-import Footer from './components/layout/Footer';
-import { ScrollRestoration, Outlet } from 'react-router-dom';
+import Navbar from "./components/layouts/Navbar";
+import Footer from "./components/layouts/Footer";
+import { Outlet, ScrollRestoration } from "react-router-dom";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+// import { useContext } from "react";
+// import { AuthContext } from "./context/AuthContext";
 
 function App() {
+  // const useAuth = useContext(AuthContext);
+
+  // if (!useAuth) {
+  //   throw new Error("useAuth must be used within AuthProvider");
+  // }
+
   return (
     <>
       {/* 1. This now works perfectly because we are using a Data Router */}
@@ -16,31 +26,12 @@ function App() {
       </main>
 
       <Footer />
+      <ToastContainer position="top-right" autoClose={5000} />
     </>
   );
 }
 
 export default App;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // import Navbar from './components/layout/Navbar';
 // import Footer from './components/layout/Footer';
@@ -56,7 +47,6 @@ export default App;
 // import OrderDetails from './pages/orders/OrderDetails';
 // import ProductPage from './pages/ProductPage';
 // import NotFoundPage from './pages/NotFoundPage';
-
 
 // function App() {
 

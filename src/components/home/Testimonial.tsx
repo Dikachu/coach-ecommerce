@@ -48,6 +48,8 @@ const Testimonials = () => {
           </div>
 
           {/* Content */}
+          {!activeTestimonial && (<p>No testimonials available.</p>
+          )}
           <div className="relative bg-white rounded-2xl p-4 sm:p-10 shadow-sm">
             {/* Testimonial Text */}
             <div>
